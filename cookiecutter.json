@@ -1,0 +1,11 @@
+{
+    "python_version": "3.7",
+    "pyenv_python_version": "3.7.4",
+    "author_name": "unknown",
+    "author_email": "unknown@example.com",
+    "package_name": "package-name",
+    "namespace": "package_namespace",
+    "module_name": "subpackage_module_name",
+    "package_keywords": "cookiecutter,template",
+    "package_desc": "cookiecutter project template for python project."
+}
